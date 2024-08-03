@@ -7,7 +7,7 @@ Welcome to your exhilarating journey into the world of Python programming! This 
 
 ## 🐍🌟 Why Python?
 
-[![Python Applications GIF](https://media.giphy.com/media/fA1W8pP4yOGEk/giphy.gif)](https://www.python.org)
+[![Python Applications GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p0M2JiY3pjMm5nbjFlcWxqM3Q3Z24xYjFzdG5mdW4wbzRqNzR4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)](https://www.python.org)
 
 Python isn't just a programming language; it's a superpower! Here's why it's your ticket to tech-savvy awesomeness:
 
@@ -21,7 +21,7 @@ Python isn't just a programming language; it's a superpower! Here's why it's you
 
 ## 🤯💡 Python in Your Daily Life:
 
-[![Python Automating Tasks GIF](https://media.giphy.com/media/l2JhwwjKZCgm5EKw8/giphy.gif)](https://www.python.org)
+[![Python Automating Tasks GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3htdGRlZzRoZGNrbWJrd2w1ZGl1bGJpYWEwZjY4bHdwcjg1d3lpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r3oOElXxOl0mVpoKzg/giphy.gif)](https://www.python.org)
 
 Python isn't just for tech wizards; it's for everyone! Here's how it can sprinkle a little magic into your daily routine:
 
@@ -33,7 +33,7 @@ Python isn't just for tech wizards; it's for everyone! Here's how it can sprinkl
 
 ## 🚀🏢 Famous Companies Love Python Too!
 
-[![Companies Using Python GIF](https://media.giphy.com/media/3o7aC1xHbgaQFRGrxO/giphy.gif)](https://www.python.org)
+[![Companies Using Python GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJxYm5pcXRwZGR1c3hkYzlmYXRidnl6Z3czYmIzenQ0b2h6dHJ3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWt89yRv9xkJyco/giphy.gif)](https://www.python.org)
 
 Python isn't just for hobbyists; it's the tool of choice for industry giants:
 
@@ -51,7 +51,7 @@ Python isn't just for hobbyists; it's the tool of choice for industry giants:
 
 **Together, let's unlock the power of Python and make the world a more awesome place!** 🌍✨
 
-[![Star GIF](https://media.giphy.com/media/3ohhwG80fH3qTZU0MA/giphy.gif)](https://github.com/your-repository)
+[![Star GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBjOXFhbng0cHpwNDY2Nmw1bTIwbDIxYWtxY2Ftb2hndDhsNGQxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MBBcLb6sQtXz1BWN5a/giphy.gif)](https://github.com/your-repository)
 
 ## Table of Contents
 
@@ -86,7 +86,7 @@ Python isn't just for hobbyists; it's the tool of choice for industry giants:
      - [💻 API Endpoints](#api-endpoints)
    - [🧱 RESTful API Design](#restful-api-design)
 
-[![Programming GIF](https://giphy.com/embed/KAq5w47R9rmTuvWOWa)](https://www.python.org)
+[![Programming GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFybjM0am5nMnl6ZzQybm83Mnhoa3hqdTJhZWJicGk1MHkwd2M1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/nuufztgCvyJZIuSkgd/giphy480p.mp4)](https://www.python.org)
 
 
 ## 🚀 Getting Started
