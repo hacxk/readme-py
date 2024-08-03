@@ -86,7 +86,7 @@ Python isn't just for hobbyists; it's the tool of choice for industry giants:
      - [💻 API Endpoints](#api-endpoints)
    - [🧱 RESTful API Design](#restful-api-design)
 
-[![Programming GIF](https://media.giphy.com/media/xT9IgsIf2P8Y9qjVSM/giphy.gif)](https://www.python.org)
+[![Programming GIF](https://giphy.com/embed/KAq5w47R9rmTuvWOWa)](https://www.python.org)
 
 
 ## 🚀 Getting Started
