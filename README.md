@@ -1,17 +1,21 @@
-
-# 🐍✨ Python Mastery: From Novice to Expert 🏆🚀
-
 <div align="center">
+   
+# 🐍✨ Python Mastery: From Novice to Expert 🏆🚀
    
 [![Python GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR3dHAyanB5NGdqMHhlN3c3NmZiZHd1YXp5c2xxM2diYTY3b2xvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)](https://www.python.org)
    
-</div>
 
 Welcome to your exhilarating journey into the world of Python programming! This guide isn't just about code—it's about understanding how Python weaves its magic into everyday life and empowers you to create amazing things. We'll take you from the fundamentals to advanced techniques, all while writing code that's clean, efficient, and a joy to read.
 
+</div>
+
 ## 🐍🌟 Why Python?
 
+<div align="center">
+
 [![Python Applications GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p0M2JiY3pjMm5nbjFlcWxqM3Q3Z24xYjFzdG5mdW4wbzRqNzR4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)](https://www.python.org)
+
+</div>
 
 Python isn't just a programming language; it's a superpower! Here's why it's your ticket to tech-savvy awesomeness:
 
@@ -25,7 +29,11 @@ Python isn't just a programming language; it's a superpower! Here's why it's you
 
 ## 🤯💡 Python in Your Daily Life:
 
+<div align="center">
+
 [![Python Automating Tasks GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3htdGRlZzRoZGNrbWJrd2w1ZGl1bGJpYWEwZjY4bHdwcjg1d3lpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r3oOElXxOl0mVpoKzg/giphy.gif)](https://www.python.org)
+
+</div>
 
 Python isn't just for tech wizards; it's for everyone! Here's how it can sprinkle a little magic into your daily routine:
 
@@ -37,7 +45,11 @@ Python isn't just for tech wizards; it's for everyone! Here's how it can sprinkl
 
 ## 🚀🏢 Famous Companies Love Python Too!
 
+<div align="center">
+
 [![Companies Using Python GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJxYm5pcXRwZGR1c3hkYzlmYXRidnl6Z3czYmIzenQ0b2h6dHJ3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWt89yRv9xkJyco/giphy.gif)](https://www.python.org)
+
+</div>
 
 Python isn't just for hobbyists; it's the tool of choice for industry giants:
 
@@ -55,7 +67,11 @@ Python isn't just for hobbyists; it's the tool of choice for industry giants:
 
 **Together, let's unlock the power of Python and make the world a more awesome place!** 🌍✨
 
+<div align="center">
+
 [![Star GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBjOXFhbng0cHpwNDY2Nmw1bTIwbDIxYWtxY2Ftb2hndDhsNGQxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MBBcLb6sQtXz1BWN5a/giphy.gif)](https://github.com/your-repository)
+
+</div>
 
 ## Table of Contents
 
@@ -89,9 +105,12 @@ Python isn't just for hobbyists; it's the tool of choice for industry giants:
      - [🕸️ Basic Flask Application](#basic-flask-application)
      - [💻 API Endpoints](#api-endpoints)
    - [🧱 RESTful API Design](#restful-api-design)
+  
+<div align="center">
 
 [![Programming GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFybjM0am5nMnl6ZzQybm83Mnhoa3hqdTJhZWJicGk1MHkwd2M1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/nuufztgCvyJZIuSkgd/giphy480p.mp4)](https://www.python.org)
 
+</div>
 
 ## 🚀 Getting Started
 
