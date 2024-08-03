@@ -1,7 +1,9 @@
 
 # 🐍✨ Python Mastery: From Novice to Expert 🏆🚀
 
+<div align="center">
 [![Python GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR3dHAyanB5NGdqMHhlN3c3NmZiZHd1YXp5c2xxM2diYTY3b2xvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)](https://www.python.org)
+</div>
 
 Welcome to your exhilarating journey into the world of Python programming! This guide isn't just about code—it's about understanding how Python weaves its magic into everyday life and empowers you to create amazing things. We'll take you from the fundamentals to advanced techniques, all while writing code that's clean, efficient, and a joy to read.
 
