@@ -68,7 +68,6 @@ Python isn't just for hobbyists; it's the tool of choice for industry giants:
       - 💻 API Endpoints
     - 🧱 RESTful API Design
   
----
 
 ## 🚀 Getting Started
 
