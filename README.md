@@ -34,39 +34,38 @@ Python isn't just for hobbyists; it's the tool of choice for industry giants:
 
 **Together, let's unlock the power of Python and make the world a more awesome place!**
 
-
 ## Table of Contents
 
-1.  🚀 Getting Started
-    - 🛠️ Setting Up Your Development Environment
-    - 📂 Project Structure and Import System 
-2. 🧱 Python Fundamentals
-    - 🔢 Basic Syntax and Data Types
-    - 🔄 Control Structures (If-elif-else, Loops, Comprehensions)
-    - 🧩 Functions and Modules
-    - 🏗️ Object-Oriented Programming
-      - 🏡 Classes and Objects
-      - 🔄 Inheritance and Polymorphism
-3. 🧠 Advanced Python Concepts
-    - 🎁 Decorators and Context Managers
-    - 🔄 Generators and Iterators
-    - ⚙️ Concurrency and Parallelism
-4. ✨ Best Practices and Clean Code
-    - 📜 PEP 8 Guidelines
-5. 🛠️ Error Handling and Logging
-6. 📚 Testing and Documentation
-    - 🧪 Testing
-    - 📝 Documentation
-7. 📊 Working with Data
-    - 📂 File I/O and Data Serialization (JSON, CSV, pathlib)
-    - 🗄️ Database Integration (SQLite)
-8. 🐼 Data Analysis with Pandas
-    - 📋 DataFrame Operations
-9. 🌐 Web Development with Python
-    - 🌶️ Flask Web Framework
-      - 🕸️ Basic Flask Application
-      - 💻 API Endpoints
-    - 🧱 RESTful API Design
+1.  [🚀 Getting Started](#-getting-started)
+    - [🛠️ Setting Up Your Development Environment](#setting-up-your-development-environment)
+    - [📂 Project Structure and Import System](#project-structure-and-import-system-) 
+2. [🧱 Python Fundamentals](#-python-fundamentals)
+    - [🔢 Basic Syntax and Data Types](#basic-syntax-and-data-types)
+    - [🔄 Control Structures (If-elif-else, Loops, Comprehensions)](#-control-structures)
+    - [🧩 Functions and Modules](#-functions-and-modules)
+    - [🏗️ Object-Oriented Programming](#️-object-oriented-programming)
+      - [🏡 Classes and Objects](#-classes-and-objects)
+      - [🔄 Inheritance and Polymorphism](#-inheritance-and-polymorphism)
+3. [🧠 Advanced Python Concepts](#-advanced-python-concepts)
+    - [🎁 Decorators and Context Managers](#-decorators-and-context-managers)
+    - [🔄 Generators and Iterators](#-generators-and-iterators)
+    - [⚙️ Concurrency and Parallelism](#-concurrency-and-parallelism)
+4. [✨ Best Practices and Clean Code](#-best-practices-and-clean-code)
+    - [📜 PEP 8 Guidelines](#pep-8-guidelines)
+5. [🛠️ Error Handling and Logging](#-error-handling-and-logging)
+6. [📚 Testing and Documentation](#-testing-and-documentation)
+    - [🧪 Testing](#-testing)
+    - [📝 Documentation](#-documentation)
+7. [📊 Working with Data](#-working-with-data)
+    - [📂 File I/O and Data Serialization (JSON, CSV, pathlib)](#file-io-and-data-serialization)
+    - [🗄️ Database Integration (SQLite)](#database-integration)
+8. [🐼 Data Analysis with Pandas](#-data-analysis-with-pandas)
+    - [📋 DataFrame Operations](#dataframe-operations)
+9. [🌐 Web Development with Python](#-web-development-with-python)
+    - [🌶️ Flask Web Framework](#flask-web-framework)
+      - [🕸️ Basic Flask Application](#basic-flask-application)
+      - [💻 API Endpoints](#api-endpoints)
+    - [🧱 RESTful API Design](#restful-api-design)
   
 
 ## 🚀 Getting Started
