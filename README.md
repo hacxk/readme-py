@@ -3,7 +3,7 @@
 
 <div align="center">
    
-[!Python GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR3dHAyanB5NGdqMHhlN3c3NmZiZHd1YXp5c2xxM2diYTY3b2xvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)](https://www.python.org)
+[![Python GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR3dHAyanB5NGdqMHhlN3c3NmZiZHd1YXp5c2xxM2diYTY3b2xvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)](https://www.python.org)
    
 </div>
 
